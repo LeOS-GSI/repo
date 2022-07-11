@@ -5,6 +5,7 @@ Chat
 F-Droid
 Fdroid
 Files Manager
+Gallery
 Game
 Games
 Launcher
